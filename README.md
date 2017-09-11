@@ -9,4 +9,14 @@ The app allows users to login, add posts, and view the added posts on the home p
 Functionality:
 
 Register:
-![Alt text](/instagram\ photos/instagram\ before.png?raw=true "Optional Title")
+![Alt text](https://github.com/hmc-cs-aschmit/Instagram/blob/master/instagram%20photos/instagram%20before.PNG)
+
+Login/Logout:
+![Alt text](https://github.com/hmc-cs-aschmit/Instagram/blob/master/instagram%20photos/instagram%20login%20before.PNG)
+![Alt text](https://github.com/hmc-cs-aschmit/Instagram/blob/master/instagram%20photos/instagram%20login%20after.PNG)
+![Alt text](https://github.com/hmc-cs-aschmit/Instagram/blob/master/instagram%20photos/instagram%20logout%20confirmation.PNG)
+![Alt text](https://github.com/hmc-cs-aschmit/Instagram/blob/master/instagram%20photos/instagram%20logout%20after.PNG)
+
+Adding a new post:
+![Alt text](https://github.com/hmc-cs-aschmit/Instagram/blob/master/instagram%20photos/instagram%20create%20post%20before.PNG)
+![Alt text](https://github.com/hmc-cs-aschmit/Instagram/blob/master/instagram%20photos/instagram%20create%20post%20afterwards.PNG)
