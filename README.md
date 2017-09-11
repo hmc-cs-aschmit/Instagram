@@ -9,4 +9,4 @@ The app allows users to login, add posts, and view the added posts on the home p
 Functionality:
 
 Register:
-![Alt text](/instagram photos/.jpg?raw=true "Optional Title")
+![Alt text](/instagram\ photos/instagram\ before.png?raw=true "Optional Title")
